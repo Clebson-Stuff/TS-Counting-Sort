@@ -1,0 +1,17 @@
+{
+  "name": "ts-coutingSort",
+  "version": "1.0.0",
+  "description": "Implementação do Couting Sort em TypeScript",
+  "main": "index.js",
+  "repository": "https://github.com/clebsonf/TS-Couting-Sort.git",
+  "author": "clebsonf <clebson.augusto@dce.ufpb.br>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^25.1.2",
+    "jest": "^25.1.0"
+  }
+}
